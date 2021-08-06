@@ -1,0 +1,20 @@
+{
+    "name": "liulf/composer-test",
+    "description": "this is test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liulf",
+            "email": "1090392662@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "composerTest\\": "src"
+        }
+    }
+
+}
